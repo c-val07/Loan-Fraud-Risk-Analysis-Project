@@ -3,7 +3,7 @@
 ## Overview
 
 This project analyzes loan application and repayment data to uncover trends in loan approvals, declines, 
-and fraudulent activity. By leveraging SQL, I explored applicant demographics, financial metrics, loan 
+and fraudulent activity. Using SQL, I explored applicant demographics, financial metrics, loan 
 characteristics, and fraud indicators to support data-driven decisions for risk assessment and lending 
 optimization.
 
